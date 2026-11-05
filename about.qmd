@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Welcome to my Portfolio"
 ---
 
 Write about your hobbies, interests, and what you care about.
