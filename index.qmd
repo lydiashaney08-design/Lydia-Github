@@ -1,6 +1,6 @@
 ---
-title: "Your Name"
-image: images/profile.jpg
+title: "Lydia Shaney"
+image: images/image.jpg
 toc: false
 about:
   template: jolla
@@ -8,7 +8,7 @@ about:
   image-width: 15em
 ---
 
-Hi! I'm [Your Name], a [year] at [school] studying [major(s)].
+Hi! I'm Lydia Shaney, a first year at Lawrence University studying English and Government.
 Write 2-3 sentences about what you care about and what you're looking for.
 
 See more on my [About Me](about.html) page!
